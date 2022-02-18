@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background: linear-gradient(45deg, rgb(85, 85, 201), lightblue);
+    height: 100vh;
+}
+.container{
+    margin: 0;
+    
+}
